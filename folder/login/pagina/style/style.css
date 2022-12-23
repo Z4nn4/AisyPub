@@ -8,6 +8,7 @@
     background-image:url(https://cdn.discordapp.com/attachments/1055069906401497180/1055070023489695804/Rolling-1s-200px.gif);
     background-repeat:no-repeat;
     background-position:center;
+    text-align: center;
   }
 #home{
   text-align: center;
@@ -16,6 +17,7 @@
 #scrittasopra{
   padding:1000%;
   background-color: transparent;
+  text-align: center;
 }
 #SCRITTA{
   text-decoration: none;
@@ -23,6 +25,8 @@
   font-size: 30px;
   text-align: center;
   font-family: 'Open Sans', sans-serif;
+  margin:20px auto;
+  display: block;
 }
 body{
   display: block;
