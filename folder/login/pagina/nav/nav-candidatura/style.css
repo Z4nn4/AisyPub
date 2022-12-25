@@ -1,0 +1,23 @@
+#generale{
+    height: 400px;
+    background-color: rgb(205, 205, 205);
+    border-radius: 3px;
+}
+#home{
+    background-color: #f1f2f3;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+#img1{
+    width: 150px;
+    border-radius: 100%;
+}
+#sotto{
+    background-color: #303030;
+    height: 300px;
+    border-radius: 3px;
+  }
+  #mezzo{
+    height: 700px;
+    background-color: #d8d8d8;
+  }

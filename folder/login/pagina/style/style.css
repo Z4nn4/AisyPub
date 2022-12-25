@@ -72,7 +72,7 @@ nav li:hover{
 }
 #home{
     background-color: #f1f2f3;
-  margin: 0px auto;
+    margin: 0px auto;
 }
 #login{
     border-color: transparent;
@@ -113,7 +113,6 @@ nav li:hover{
 #sotto{
   background-color: #303030;
   height: 300px;
-  
 }
 #img1{
     border-radius: 100%;
