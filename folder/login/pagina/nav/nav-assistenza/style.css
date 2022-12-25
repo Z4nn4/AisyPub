@@ -17,7 +17,18 @@
     height: 300px;
     border-radius: 3px;
   }
-  #mezzo{
-    height: 700px;
+#mezzo{
+    height: 400px;
     background-color: #d8d8d8;
   }
+
+a{
+    text-decoration: none;
+    color:black;
+}
+#discordlink{
+    text-decoration: underline;
+}
+#discordlink:hover{
+    color: blue;
+}
